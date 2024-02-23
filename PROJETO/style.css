@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(206, 145, 228);
+    
+    gap: 10px;
+
+}
+.lo{
+    display: flex;
+    flex-direction: row;
+}
+
+.oi{
+    background-color: rgb(248, 244, 202);
+    width: 1900px;
+   
+    text-align: center;
+    margin: auto;
+    display: block;
+}
